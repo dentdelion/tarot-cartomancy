@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="085bc581-d0b0-4613-9dd9-02412bc81a3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UhH0pYn7nN8JkfmFmd11mGLjLR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config-server/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config-server" />
+      <recent name="$PROJECT_DIR$/cards-provider/dbseed" />
+      <recent name="$PROJECT_DIR$/cards-provider" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.blyumska.tarot.cards.domain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cards-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blyumska.tarot.cards.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FortuneTellerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fortune-teller" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blyumska.tarot.fortune.teller.FortuneTellerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TarotEurekaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tarot-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blyumska.tarot.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blyumska.tarot.eureka.TarotEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TarotEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tarot-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blyumka.tarot.eureka.TarotEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TarotEurekaApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="085bc581-d0b0-4613-9dd9-02412bc81a3e" name="Default Changelist" comment="" />
+      <created>1575801686190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575801686190</updated>
+      <workItem from="1575801688946" duration="8893000" />
+      <workItem from="1575884546463" duration="9697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="847" height="677" key="#Project_Structure" timestamp="1575902317193">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" key="#Project_Structure/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575902317193" />
+    <state x="588" y="214" width="847" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1575809099917" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575902355590">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575902355590" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1575808849148" />
+    <state width="1807" height="495" key="GridCell.Tab.0.bottom" timestamp="1575900405010">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="495" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="295" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575878731975" />
+    <state width="1807" height="495" key="GridCell.Tab.0.center" timestamp="1575900405010">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="495" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="295" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575878731975" />
+    <state width="1807" height="495" key="GridCell.Tab.0.left" timestamp="1575900405010">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="495" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="295" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575878731974" />
+    <state width="1807" height="495" key="GridCell.Tab.0.right" timestamp="1575900405010">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="495" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="295" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575878731975" />
+    <state width="1807" height="495" key="GridCell.Tab.1.bottom" timestamp="1575900405010">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="495" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="495" key="GridCell.Tab.1.center" timestamp="1575900405010">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="495" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="495" key="GridCell.Tab.1.left" timestamp="1575900405010">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="495" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="495" key="GridCell.Tab.1.right" timestamp="1575900405010">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="495" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1575900300587">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900300587" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1575808648758" />
+    <state width="499" height="497" key="SwitcherDM" timestamp="1575904189637">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="499" height="497" key="SwitcherDM/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575904189637" />
+    <state width="498" height="497" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1575879016815" />
+    <state width="1015" height="497" key="SwitcherDM/67.27.3773.1053@67.27.3773.1053" timestamp="1575879133497" />
+    <state x="765" y="332" width="446" height="440" key="chooseDestDirectoryDialog" timestamp="1575899859364">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="765" y="332" width="446" height="440" key="chooseDestDirectoryDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575899859364" />
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575899544959">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575899544959" />
+    <state x="647" y="170" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575902129934">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="647" y="170" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575902129934" />
+    <state x="739" y="257" width="498" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575808912937">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="739" y="257" width="498" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575808912937" />
+    <state x="2153" y="95" width="812" height="855" key="dock-window-1" timestamp="1575899286292">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2153" y="95" width="812" height="855" key="dock-window-1/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575899286292" />
+    <state x="2188" y="75" width="1653" height="855" key="dock-window-1/67.27.3773.1053@67.27.3773.1053" timestamp="1575879194080" />
+    <state x="559" y="254" width="869" height="596" key="find.popup" timestamp="1575901677685">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="559" y="254" width="869" height="596" key="find.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575901677685" />
+    <state x="302" y="94" width="1372" height="917" key="new project wizard" timestamp="1575903368448">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="94" key="new project wizard/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575903368448" />
+    <state x="302" y="94" width="1372" height="917" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1575802488934" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1575904193859">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575904193859" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575808598264" />
+  </component>
+</project>

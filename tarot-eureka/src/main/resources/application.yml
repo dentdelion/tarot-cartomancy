@@ -1,0 +1,10 @@
+server.port: ${PORT:8761}
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+
+logging:
+  file:
+    name: build/eureka.log

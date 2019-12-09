@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-server" />
+        <module name="tarot-eureka" />
+        <module name="cards-provider" />
+        <module name="fortune-teller" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cards-provider" target="11" />
+      <module name="config-server" target="11" />
+      <module name="fortune-teller" target="11" />
+      <module name="tarot-eureka" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cards-provider" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="fortune-teller" options="-parameters" />
+      <module name="tarot-eureka" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cards-provider/cards-provider.iml" filepath="$PROJECT_DIR$/cards-provider/cards-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortune-teller/fortune-teller.iml" filepath="$PROJECT_DIR$/fortune-teller/fortune-teller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarot-cartomancy.iml" filepath="$PROJECT_DIR$/tarot-cartomancy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarot-eureka/tarot-eureka.iml" filepath="$PROJECT_DIR$/tarot-eureka/tarot-eureka.iml" />
+    </modules>
+  </component>
+</project>
