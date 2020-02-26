@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="085bc581-d0b0-4613-9dd9-02412bc81a3e" name="Default Changelist" comment="" />
+    <list default="true" id="085bc581-d0b0-4613-9dd9-02412bc81a3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards-provider/src/main/java/com/blyumska/tarot/cards/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/cards-provider/src/main/java/com/blyumska/tarot/cards/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fortune-teller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fortune-teller/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fortune-teller/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fortune-teller/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +31,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1UhH0pYn7nN8JkfmFmd11mGLjLR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,9 +43,11 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/config-server/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fortune-teller/src/main/java/com/blyumska/tarot/fortune/teller/domain" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fortune-teller/src/main/java/com/blyumska/tarot/fortune/teller/domain" />
       <recent name="$PROJECT_DIR$/config-server" />
       <recent name="$PROJECT_DIR$/cards-provider/dbseed" />
       <recent name="$PROJECT_DIR$/cards-provider" />
@@ -57,10 +70,23 @@
       <recent name="com.blyumska.tarot.cards.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application">
+  <component name="RunManager" selected="Spring Boot.FortuneTellerApplication">
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cards-provider" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.blyumska.tarot.cards.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blyumska.tarot.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.blyumska.tarot.config.ConfigServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
         <item itemvalue="Spring Boot.TarotEurekaApplication (1)" />
       </list>
     </recent_temporary>
@@ -121,12 +148,29 @@
       <option name="presentableId" value="Default" />
       <updated>1575801686190</updated>
       <workItem from="1575801688946" duration="8893000" />
-      <workItem from="1575884546463" duration="9697000" />
+      <workItem from="1575884546463" duration="12831000" />
+      <workItem from="1575918982850" duration="597000" />
+      <workItem from="1576140586599" duration="597000" />
+      <workItem from="1576225982340" duration="596000" />
+      <workItem from="1576485476436" duration="1239000" />
+      <workItem from="1576501937194" duration="1566000" />
     </task>
+    <task id="LOCAL-00001" summary="Add configuration">
+      <created>1575906740058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575906740058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add configuration" />
   </component>
   <component name="WindowStateProjectService">
     <state x="588" y="214" width="847" height="677" key="#Project_Structure" timestamp="1575902317193">
@@ -134,47 +178,51 @@
     </state>
     <state x="588" y="214" key="#Project_Structure/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575902317193" />
     <state x="588" y="214" width="847" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1575809099917" />
+    <state x="610" y="27" width="860" height="941" key="CommitChangelistDialog2" timestamp="1575906739792">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="610" y="27" width="860" height="941" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575906739792" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575902355590">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575902355590" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1575808849148" />
-    <state width="1807" height="495" key="GridCell.Tab.0.bottom" timestamp="1575900405010">
+    <state width="1807" height="495" key="GridCell.Tab.0.bottom" timestamp="1575907606651">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="495" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="495" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575907606651" />
     <state width="1807" height="295" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575878731975" />
-    <state width="1807" height="495" key="GridCell.Tab.0.center" timestamp="1575900405010">
+    <state width="1807" height="495" key="GridCell.Tab.0.center" timestamp="1575907606651">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="495" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="495" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575907606651" />
     <state width="1807" height="295" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575878731975" />
-    <state width="1807" height="495" key="GridCell.Tab.0.left" timestamp="1575900405010">
+    <state width="1807" height="495" key="GridCell.Tab.0.left" timestamp="1575907606650">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="495" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="495" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575907606650" />
     <state width="1807" height="295" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575878731974" />
-    <state width="1807" height="495" key="GridCell.Tab.0.right" timestamp="1575900405010">
+    <state width="1807" height="495" key="GridCell.Tab.0.right" timestamp="1575907606651">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="495" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="495" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575907606651" />
     <state width="1807" height="295" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575878731975" />
-    <state width="1807" height="495" key="GridCell.Tab.1.bottom" timestamp="1575900405010">
+    <state width="1807" height="495" key="GridCell.Tab.1.bottom" timestamp="1575907606652">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="495" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
-    <state width="1807" height="495" key="GridCell.Tab.1.center" timestamp="1575900405010">
+    <state width="1807" height="495" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575907606652" />
+    <state width="1807" height="495" key="GridCell.Tab.1.center" timestamp="1575907606651">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="495" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
-    <state width="1807" height="495" key="GridCell.Tab.1.left" timestamp="1575900405010">
+    <state width="1807" height="495" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575907606651" />
+    <state width="1807" height="495" key="GridCell.Tab.1.left" timestamp="1575907606651">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="495" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
-    <state width="1807" height="495" key="GridCell.Tab.1.right" timestamp="1575900405010">
+    <state width="1807" height="495" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575907606651" />
+    <state width="1807" height="495" key="GridCell.Tab.1.right" timestamp="1575907606652">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="495" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575900405010" />
+    <state width="1807" height="495" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575907606652" />
     <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1575900300587">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -186,6 +234,10 @@
     <state width="499" height="497" key="SwitcherDM/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575904189637" />
     <state width="498" height="497" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1575879016815" />
     <state width="1015" height="497" key="SwitcherDM/67.27.3773.1053@67.27.3773.1053" timestamp="1575879133497" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1575906742106">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575906742106" />
     <state x="765" y="332" width="446" height="440" key="chooseDestDirectoryDialog" timestamp="1575899859364">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -216,10 +268,10 @@
     </state>
     <state x="302" y="94" key="new project wizard/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575903368448" />
     <state x="302" y="94" width="1372" height="917" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1575802488934" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1575904193859">
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1576485511960">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575904193859" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575808598264" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1576485511960" />
   </component>
 </project>
